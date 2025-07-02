@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**:https://preview--online-order-hub.lovable.app
+**URL**:  https://preview--online-order-hub.lovable.app
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d1a248d8-eec3-461a-baa3-0558609248a1) and start prompting.
+Simply visit the [Project](https://lovable.dev/projects/d1a248d8-eec3-461a-baa3-0558609248a1) and start prompting.
 
 
 **Use your preferred IDE**
@@ -61,7 +61,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/d1a248d8-eec3-461a-baa3-0558609248a1) and click on Share -> Publish.
+Simply open [Here](https://lovable.dev/projects/d1a248d8-eec3-461a-baa3-0558609248a1) and click on Share -> Publish.
 
 
 
